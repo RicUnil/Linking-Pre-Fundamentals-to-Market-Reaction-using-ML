@@ -1,0 +1,33 @@
+Step 03e: Fix Fundamental Data Extraction
+======================================================================
+
+Status: COMPLETED
+
+Input: /files/Pre-Fundamentals-Project/data/RAW_DATA.csv
+Output: /files/Pre-Fundamentals-Project/results/step_03/clean_data_fixed.parquet
+
+Rows: 41,493
+Columns: 21
+Companies: 712
+With earnings dates: 20,281
+With tickers: 31,553
+
+Feature columns: 16
+Features with data: 16
+
+Top features by coverage:
+  - net_sales_or_revenues: 29,287 (70.6%)
+  - net_inc_before_extra_pfd_divs: 29,283 (70.6%)
+  - operating_income: 29,235 (70.5%)
+  - total_assets: 29,148 (70.2%)
+  - funds_from_operations: 29,093 (70.1%)
+  - total_liabilities: 29,088 (70.1%)
+  - common_shareholders'_equity: 29,064 (70.0%)
+  - common_shares_outstanding: 29,044 (70.0%)
+  - capital_expenditures: 28,196 (68.0%)
+  - tot_return_ind: 28,126 (67.8%)
+  - turnover_by_volume: 28,126 (67.8%)
+  - eps_int_surp_value: 27,702 (66.8%)
+  - eps_int_surp_pdiff: 27,646 (66.6%)
+  - cash: 27,055 (65.2%)
+  - ltg_mean_estimate: 24,495 (59.0%)

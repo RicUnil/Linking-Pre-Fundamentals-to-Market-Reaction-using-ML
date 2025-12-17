@@ -1,0 +1,24 @@
+Step 03b - Extract Earnings Announcement Dates
+Completed at: 2025-12-17 15:46:38
+
+Input Data:
+- Quarterly files: Quarter_1.csv, Quarter_2.csv, Quarter_3.csv, Quarter_4.csv
+
+Processing Results:
+- Total earnings events: 22,130
+- Unique companies: 433
+- Date range: 2010-02-03 to 2025-03-26
+
+Events per Quarter:
+- Q1: 5,501
+- Q2: 5,527
+- Q3: 5,540
+- Q4: 5,562
+
+Output Files:
+- earnings_dates.parquet (0.07 MB)
+- earnings_dates_head.csv
+
+Status: SUCCESS
+Earnings announcement dates successfully extracted from quarterly files.
+This data can now be used to replace the dummy dates in the pipeline.

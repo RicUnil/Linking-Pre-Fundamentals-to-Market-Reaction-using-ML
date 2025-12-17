@@ -1,0 +1,20 @@
+Step 03 - Load Capital IQ / Earnings CSV Data
+Completed at: 2025-12-17 15:44:01
+
+Files Loaded:
+- RAW_DATA.csv: 9,054 rows × 65 columns
+- Quarter_1.csv: 502 rows × 17 columns
+- Quarter_2.csv: 503 rows × 17 columns
+- Quarter_3.csv: 503 rows × 16340 columns
+- Quarter_4.csv: 1,006 rows × 17 columns
+
+Intermediate Files Created:
+- earnings_raw.parquet (3.61 MB)
+- earnings_head.csv
+
+Data Quality Summary:
+- Columns with missing values: 65/65
+- Duplicate rows: 1,046
+
+Status: SUCCESS
+Earnings data successfully loaded and saved for downstream processing.

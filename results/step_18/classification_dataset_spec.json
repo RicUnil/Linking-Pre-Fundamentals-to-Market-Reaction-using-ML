@@ -1,0 +1,48 @@
+{
+  "task_type": "binary_classification",
+  "label_name": "label_outperform",
+  "label_definition": "1 if excess_return_30d > 0.0 else 0",
+  "source_regression_target": "excess_return_30d",
+  "feature_columns": [
+    "f_asset_turnover",
+    "f_cash_to_assets_ratio",
+    "f_cashflow_proxy_ffo_capex",
+    "f_eps_surprise_pct",
+    "f_eps_surprise_value",
+    "f_equity_ratio",
+    "f_leverage",
+    "f_net_income_change_qoq",
+    "f_net_income_change_yoy",
+    "f_net_margin",
+    "f_operating_margin",
+    "f_revenue_growth_qoq",
+    "f_revenue_growth_yoy",
+    "f_roa",
+    "f_roe",
+    "pre_avg_volume_30d",
+    "pre_volatility_30d",
+    "spy_pre_return_30d",
+    "stock_momentum_1m",
+    "stock_momentum_3m",
+    "stock_momentum_6m"
+  ],
+  "num_features": 21,
+  "splits": {
+    "train": {
+      "size": 9808,
+      "class_0": 4685,
+      "class_1": 5123
+    },
+    "validation": {
+      "size": 2452,
+      "class_0": 1139,
+      "class_1": 1313
+    },
+    "test": {
+      "size": 7040,
+      "class_0": 3535,
+      "class_1": 3505
+    }
+  },
+  "notes": "Uses the exact same train/validation/test splits as regression (Step 10)."
+}

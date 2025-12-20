@@ -1,0 +1,47 @@
+{
+  "label_definition": "label_outperform = 1 if excess_return_30d > 0.0 else 0",
+  "train": {
+    "total": 9808,
+    "0": {
+      "count": 4685,
+      "proportion": 0.47767128874388254
+    },
+    "1": {
+      "count": 5123,
+      "proportion": 0.5223287112561175
+    }
+  },
+  "validation": {
+    "total": 2452,
+    "0": {
+      "count": 1139,
+      "proportion": 0.46451876019575855
+    },
+    "1": {
+      "count": 1313,
+      "proportion": 0.5354812398042414
+    }
+  },
+  "test": {
+    "total": 7040,
+    "0": {
+      "count": 3535,
+      "proportion": 0.5021306818181818
+    },
+    "1": {
+      "count": 3505,
+      "proportion": 0.4978693181818182
+    }
+  },
+  "overall": {
+    "total": 19300,
+    "0": {
+      "count": 9359,
+      "proportion": 0.4849222797927461
+    },
+    "1": {
+      "count": 9941,
+      "proportion": 0.5150777202072538
+    }
+  }
+}

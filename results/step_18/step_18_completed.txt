@@ -1,0 +1,9 @@
+Step 18 completed: classification labels created and saved.
+Train labels shape: (9808,)
+Validation labels shape: (2452,)
+Test labels shape: (7040,)
+
+Class balance:
+  Train: 5123/9808 outperform (52.23%)
+  Validation: 1313/2452 outperform (53.55%)
+  Test: 3505/7040 outperform (49.79%)

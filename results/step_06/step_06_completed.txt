@@ -1,0 +1,27 @@
+Step 06 - Map Earnings Events to Daily Data Windows
+Completed at: 2025-12-17 16:08:36
+
+Input Data:
+- Earnings events: 20,281 rows
+- Daily data tickers: 374
+
+Window Configuration:
+- Pre-window: J-30 to J-1 (30 trading days before earnings)
+- Post-window: J+1 to J+30 (30 trading days after earnings)
+
+Processing Results:
+- Events processed: 20,281
+- New columns added: 6
+
+Coverage Statistics:
+- Events with full pre-window: 19,284 (95.1%)
+- Events with full post-window: 19,300 (95.2%)
+- Events with both windows: 19,283 (95.1%)
+
+Output Files:
+- earnings_with_windows.parquet (1.06 MB)
+- earnings_with_windows_head.csv
+
+Status: SUCCESS
+Earnings events successfully mapped to daily data windows.
+Next step: Compute returns and targets (Step 07).

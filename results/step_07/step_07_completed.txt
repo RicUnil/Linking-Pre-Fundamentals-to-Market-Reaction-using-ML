@@ -1,0 +1,28 @@
+Step 07 - Compute 30-Day Post-Earnings Targets
+Completed at: 2025-12-20 13:14:51
+
+Input Data:
+- Earnings events: 20,281 rows
+- Daily data files: 374
+
+Target Configuration:
+- Window: post_window_start to post_window_end (J+1 to J+30)
+- Return metric: Adjusted close (or close if unavailable)
+- Excess return: stock_return_30d - spy_return_30d
+
+Processing Results:
+- Events processed: 20,281
+- Events with valid targets: 19,300 (95.2%)
+- New columns added: 4
+
+Label Distribution:
+- Outperform (label=1): 9,941 (51.5% of valid)
+- Underperform (label=0): 9,359 (48.5% of valid)
+
+Output Files:
+- earnings_with_targets.parquet (1.48 MB)
+- earnings_with_targets_head.csv
+
+Status: SUCCESS
+30-day post-earnings targets successfully computed.
+Next step: Feature engineering (Step 08).

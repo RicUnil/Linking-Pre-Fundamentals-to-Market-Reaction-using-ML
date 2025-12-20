@@ -1,0 +1,23 @@
+======================================================================
+RESIDUAL ANALYSIS SUMMARY
+======================================================================
+
+1. BASIC STATISTICS
+   Mean:   0.002364
+   Std:    0.079142
+   RMSE:   0.079177
+   Range:  [-0.669383, 0.766664]
+
+2. NORMALITY TESTS
+   Residuals deviate from normality
+   Skewness: 0.8935
+   Kurtosis: 8.1763
+
+3. HETEROSCEDASTICITY
+   Significant heteroscedasticity detected
+   Variance ratio: 1.1381
+
+4. OUTLIERS
+   Found 55 outliers (0.78%)
+
+======================================================================

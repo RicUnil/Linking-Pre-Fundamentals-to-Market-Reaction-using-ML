@@ -1,0 +1,5 @@
+Metric,Value,CI_Lower,CI_Upper,P_Value,Significant
+R²,-0.0105,-0.0173,-0.0042,0.2520,No
+MAE,0.0557,-,-,-,-
+RMSE,0.0792,-,-,-,-
+vs Baseline,t=2.99,-,-,0.9986,No

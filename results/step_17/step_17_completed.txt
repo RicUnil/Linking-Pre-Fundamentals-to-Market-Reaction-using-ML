@@ -1,0 +1,15 @@
+Step 17 completed: regression figures generated.
+Figures directory: /files/Pre-Fundamentals-Project/results/step_17/figures
+
+Generated figures:
+  - actual_vs_pred_ridge_val.png
+  - actual_vs_pred_ridge_test.png
+  - actual_vs_pred_rf_test.png
+  - residuals_hist_ridge_test.png
+  - residuals_vs_pred_ridge_test.png
+  - val_mae_by_model.png
+  - val_r2_by_model.png
+  - test_mae_by_model.png
+  - test_r2_by_model.png
+  - rolling_test_mae_by_model.png
+  - rolling_test_r2_by_model.png

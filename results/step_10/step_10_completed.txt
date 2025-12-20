@@ -1,0 +1,6 @@
+Step 10 completed.
+Train rows: 9808
+Val rows: 2452
+Test rows: 7040
+Features: 21
+Test split date: 2020-01-01

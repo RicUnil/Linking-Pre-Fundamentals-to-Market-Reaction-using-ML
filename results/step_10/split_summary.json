@@ -1,0 +1,20 @@
+{
+  "train": {
+    "n_rows": 9808,
+    "n_features": 21,
+    "target_mean": 0.002596205676971844,
+    "target_std": 0.053700640545088205
+  },
+  "val": {
+    "n_rows": 2452,
+    "n_features": 21,
+    "target_mean": 0.004182843020394506,
+    "target_std": 0.061114534797403766
+  },
+  "test": {
+    "n_rows": 7040,
+    "n_features": 21,
+    "target_mean": 0.004066631870878826,
+    "target_std": 0.07876440155007806
+  }
+}

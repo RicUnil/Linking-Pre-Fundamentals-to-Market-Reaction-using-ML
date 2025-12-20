@@ -209,3 +209,6 @@ __marimo__/
 # Project cache (generated)
 data/cache/
 
+# Heavy generated artifacts
+results/**/*.parquet
+data/cache/

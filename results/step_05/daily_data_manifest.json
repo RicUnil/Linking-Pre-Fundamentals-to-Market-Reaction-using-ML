@@ -1,0 +1,2246 @@
+{
+  "MMM": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "MMM_daily.parquet"
+  },
+  "ABT": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "ABT_daily.parquet"
+  },
+  "ABBV": {
+    "start": "2013-01-02",
+    "end": "2025-04-24",
+    "rows": 3097,
+    "file": "ABBV_daily.parquet"
+  },
+  "ACN": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "ACN_daily.parquet"
+  },
+  "ADBE": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "ADBE_daily.parquet"
+  },
+  "AMD": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "AMD_daily.parquet"
+  },
+  "AES": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "AES_daily.parquet"
+  },
+  "AFL": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "AFL_daily.parquet"
+  },
+  "A": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "A_daily.parquet"
+  },
+  "APD": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "APD_daily.parquet"
+  },
+  "ABNB": {
+    "start": "2020-12-10",
+    "end": "2025-04-24",
+    "rows": 1097,
+    "file": "ABNB_daily.parquet"
+  },
+  "AKAM": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "AKAM_daily.parquet"
+  },
+  "ALB": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "ALB_daily.parquet"
+  },
+  "ARE": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "ARE_daily.parquet"
+  },
+  "ALGN": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "ALGN_daily.parquet"
+  },
+  "ALLE": {
+    "start": "2013-11-18",
+    "end": "2025-04-24",
+    "rows": 2875,
+    "file": "ALLE_daily.parquet"
+  },
+  "LNT": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "LNT_daily.parquet"
+  },
+  "ALL": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "ALL_daily.parquet"
+  },
+  "GOOGL": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "GOOGL_daily.parquet"
+  },
+  "MO": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "MO_daily.parquet"
+  },
+  "AMZN": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "AMZN_daily.parquet"
+  },
+  "AMCR": {
+    "start": "2012-05-15",
+    "end": "2025-04-24",
+    "rows": 3255,
+    "file": "AMCR_daily.parquet"
+  },
+  "AEE": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "AEE_daily.parquet"
+  },
+  "AEP": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "AEP_daily.parquet"
+  },
+  "AXP": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "AXP_daily.parquet"
+  },
+  "AIG": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "AIG_daily.parquet"
+  },
+  "AMT": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "AMT_daily.parquet"
+  },
+  "AWK": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "AWK_daily.parquet"
+  },
+  "AMP": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "AMP_daily.parquet"
+  },
+  "AME": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "AME_daily.parquet"
+  },
+  "AMGN": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "AMGN_daily.parquet"
+  },
+  "APH": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "APH_daily.parquet"
+  },
+  "ADI": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "ADI_daily.parquet"
+  },
+  "AON": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "AON_daily.parquet"
+  },
+  "APA": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "APA_daily.parquet"
+  },
+  "APO": {
+    "start": "2011-03-30",
+    "end": "2025-04-24",
+    "rows": 3539,
+    "file": "APO_daily.parquet"
+  },
+  "AAPL": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "AAPL_daily.parquet"
+  },
+  "AMAT": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "AMAT_daily.parquet"
+  },
+  "APP": {
+    "start": "2021-04-15",
+    "end": "2025-04-24",
+    "rows": 1012,
+    "file": "APP_daily.parquet"
+  },
+  "APTV": {
+    "start": "2011-11-17",
+    "end": "2025-04-24",
+    "rows": 3377,
+    "file": "APTV_daily.parquet"
+  },
+  "ACGL": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "ACGL_daily.parquet"
+  },
+  "ADM": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "ADM_daily.parquet"
+  },
+  "ANET": {
+    "start": "2014-06-06",
+    "end": "2025-04-24",
+    "rows": 2738,
+    "file": "ANET_daily.parquet"
+  },
+  "AJG": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "AJG_daily.parquet"
+  },
+  "AIZ": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "AIZ_daily.parquet"
+  },
+  "T": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "T_daily.parquet"
+  },
+  "ATO": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "ATO_daily.parquet"
+  },
+  "ADSK": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "ADSK_daily.parquet"
+  },
+  "ADP": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "ADP_daily.parquet"
+  },
+  "AZO": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "AZO_daily.parquet"
+  },
+  "AVB": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "AVB_daily.parquet"
+  },
+  "AVY": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "AVY_daily.parquet"
+  },
+  "AXON": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "AXON_daily.parquet"
+  },
+  "BKR": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "BKR_daily.parquet"
+  },
+  "BALL": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "BALL_daily.parquet"
+  },
+  "BAC": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "BAC_daily.parquet"
+  },
+  "BK": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "BK_daily.parquet"
+  },
+  "BAX": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "BAX_daily.parquet"
+  },
+  "BDX": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "BDX_daily.parquet"
+  },
+  "BBY": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "BBY_daily.parquet"
+  },
+  "TECH": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "TECH_daily.parquet"
+  },
+  "BIIB": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "BIIB_daily.parquet"
+  },
+  "BLK": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "BLK_daily.parquet"
+  },
+  "BX": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "BX_daily.parquet"
+  },
+  "BA": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "BA_daily.parquet"
+  },
+  "BKNG": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "BKNG_daily.parquet"
+  },
+  "BSX": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "BSX_daily.parquet"
+  },
+  "BMY": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "BMY_daily.parquet"
+  },
+  "AVGO": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "AVGO_daily.parquet"
+  },
+  "BR": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "BR_daily.parquet"
+  },
+  "BRO": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "BRO_daily.parquet"
+  },
+  "BLDR": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "BLDR_daily.parquet"
+  },
+  "BG": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "BG_daily.parquet"
+  },
+  "BXP": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "BXP_daily.parquet"
+  },
+  "CDNS": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "CDNS_daily.parquet"
+  },
+  "CPT": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "CPT_daily.parquet"
+  },
+  "CPB": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "CPB_daily.parquet"
+  },
+  "COF": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "COF_daily.parquet"
+  },
+  "CAH": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "CAH_daily.parquet"
+  },
+  "CCL": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "CCL_daily.parquet"
+  },
+  "CARR": {
+    "start": "2020-03-19",
+    "end": "2025-04-24",
+    "rows": 1282,
+    "file": "CARR_daily.parquet"
+  },
+  "CAT": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "CAT_daily.parquet"
+  },
+  "CBOE": {
+    "start": "2010-06-15",
+    "end": "2025-04-24",
+    "rows": 3739,
+    "file": "CBOE_daily.parquet"
+  },
+  "CBRE": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "CBRE_daily.parquet"
+  },
+  "CDW": {
+    "start": "2013-06-27",
+    "end": "2025-04-24",
+    "rows": 2975,
+    "file": "CDW_daily.parquet"
+  },
+  "COR": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "COR_daily.parquet"
+  },
+  "CNC": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "CNC_daily.parquet"
+  },
+  "CNP": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "CNP_daily.parquet"
+  },
+  "CF": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "CF_daily.parquet"
+  },
+  "CHRW": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "CHRW_daily.parquet"
+  },
+  "SCHW": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "SCHW_daily.parquet"
+  },
+  "CHTR": {
+    "start": "2010-01-05",
+    "end": "2025-04-24",
+    "rows": 3850,
+    "file": "CHTR_daily.parquet"
+  },
+  "CRL": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "CRL_daily.parquet"
+  },
+  "CVX": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "CVX_daily.parquet"
+  },
+  "CMG": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "CMG_daily.parquet"
+  },
+  "CB": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "CB_daily.parquet"
+  },
+  "CHD": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "CHD_daily.parquet"
+  },
+  "CI": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "CI_daily.parquet"
+  },
+  "CINF": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "CINF_daily.parquet"
+  },
+  "CTAS": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "CTAS_daily.parquet"
+  },
+  "CSCO": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "CSCO_daily.parquet"
+  },
+  "C": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "C_daily.parquet"
+  },
+  "CFG": {
+    "start": "2014-09-24",
+    "end": "2025-04-24",
+    "rows": 2662,
+    "file": "CFG_daily.parquet"
+  },
+  "CLX": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "CLX_daily.parquet"
+  },
+  "CME": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "CME_daily.parquet"
+  },
+  "CMS": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "CMS_daily.parquet"
+  },
+  "KO": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "KO_daily.parquet"
+  },
+  "CTSH": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "CTSH_daily.parquet"
+  },
+  "COIN": {
+    "start": "2021-04-14",
+    "end": "2025-04-24",
+    "rows": 1013,
+    "file": "COIN_daily.parquet"
+  },
+  "CL": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "CL_daily.parquet"
+  },
+  "CMCSA": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "CMCSA_daily.parquet"
+  },
+  "CAG": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "CAG_daily.parquet"
+  },
+  "COP": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "COP_daily.parquet"
+  },
+  "ED": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "ED_daily.parquet"
+  },
+  "STZ": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "STZ_daily.parquet"
+  },
+  "CEG": {
+    "start": "2022-01-19",
+    "end": "2025-04-24",
+    "rows": 819,
+    "file": "CEG_daily.parquet"
+  },
+  "COO": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "COO_daily.parquet"
+  },
+  "CPRT": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "CPRT_daily.parquet"
+  },
+  "GLW": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "GLW_daily.parquet"
+  },
+  "CPAY": {
+    "start": "2010-12-15",
+    "end": "2025-04-24",
+    "rows": 3611,
+    "file": "CPAY_daily.parquet"
+  },
+  "CTVA": {
+    "start": "2019-05-24",
+    "end": "2025-04-24",
+    "rows": 1488,
+    "file": "CTVA_daily.parquet"
+  },
+  "CSGP": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "CSGP_daily.parquet"
+  },
+  "COST": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "COST_daily.parquet"
+  },
+  "CTRA": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "CTRA_daily.parquet"
+  },
+  "CRWD": {
+    "start": "2019-06-12",
+    "end": "2025-04-24",
+    "rows": 1476,
+    "file": "CRWD_daily.parquet"
+  },
+  "CCI": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "CCI_daily.parquet"
+  },
+  "CSX": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "CSX_daily.parquet"
+  },
+  "CMI": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "CMI_daily.parquet"
+  },
+  "CVS": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "CVS_daily.parquet"
+  },
+  "DHI": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "DHI_daily.parquet"
+  },
+  "DHR": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "DHR_daily.parquet"
+  },
+  "DRI": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "DRI_daily.parquet"
+  },
+  "DDOG": {
+    "start": "2019-09-19",
+    "end": "2025-04-24",
+    "rows": 1407,
+    "file": "DDOG_daily.parquet"
+  },
+  "DVA": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "DVA_daily.parquet"
+  },
+  "DAY": {
+    "start": "2018-04-26",
+    "end": "2025-04-24",
+    "rows": 1759,
+    "file": "DAY_daily.parquet"
+  },
+  "DECK": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "DECK_daily.parquet"
+  },
+  "DE": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "DE_daily.parquet"
+  },
+  "DELL": {
+    "start": "2016-08-17",
+    "end": "2025-04-24",
+    "rows": 2184,
+    "file": "DELL_daily.parquet"
+  },
+  "DAL": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "DAL_daily.parquet"
+  },
+  "DVN": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "DVN_daily.parquet"
+  },
+  "DXCM": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "DXCM_daily.parquet"
+  },
+  "FANG": {
+    "start": "2012-10-12",
+    "end": "2025-04-24",
+    "rows": 3150,
+    "file": "FANG_daily.parquet"
+  },
+  "DLR": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "DLR_daily.parquet"
+  },
+  "DIS": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "DIS_daily.parquet"
+  },
+  "DG": {
+    "start": "2009-11-13",
+    "end": "2025-04-24",
+    "rows": 3884,
+    "file": "DG_daily.parquet"
+  },
+  "DLTR": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "DLTR_daily.parquet"
+  },
+  "D": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "D_daily.parquet"
+  },
+  "DPZ": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "DPZ_daily.parquet"
+  },
+  "DASH": {
+    "start": "2020-12-09",
+    "end": "2025-04-24",
+    "rows": 1098,
+    "file": "DASH_daily.parquet"
+  },
+  "DOV": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "DOV_daily.parquet"
+  },
+  "DOW": {
+    "start": "2019-03-20",
+    "end": "2025-04-24",
+    "rows": 1534,
+    "file": "DOW_daily.parquet"
+  },
+  "DTE": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "DTE_daily.parquet"
+  },
+  "DUK": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "DUK_daily.parquet"
+  },
+  "DD": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "DD_daily.parquet"
+  },
+  "ETN": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "ETN_daily.parquet"
+  },
+  "EBAY": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "EBAY_daily.parquet"
+  },
+  "ECL": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "ECL_daily.parquet"
+  },
+  "EIX": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "EIX_daily.parquet"
+  },
+  "EW": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "EW_daily.parquet"
+  },
+  "EA": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "EA_daily.parquet"
+  },
+  "ELV": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "ELV_daily.parquet"
+  },
+  "EME": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "EME_daily.parquet"
+  },
+  "EMR": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "EMR_daily.parquet"
+  },
+  "ETR": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "ETR_daily.parquet"
+  },
+  "EOG": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "EOG_daily.parquet"
+  },
+  "EPAM": {
+    "start": "2012-02-08",
+    "end": "2025-04-24",
+    "rows": 3322,
+    "file": "EPAM_daily.parquet"
+  },
+  "EQT": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "EQT_daily.parquet"
+  },
+  "EFX": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "EFX_daily.parquet"
+  },
+  "EQIX": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "EQIX_daily.parquet"
+  },
+  "EQR": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "EQR_daily.parquet"
+  },
+  "ERIE": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "ERIE_daily.parquet"
+  },
+  "ESS": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "ESS_daily.parquet"
+  },
+  "EL": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "EL_daily.parquet"
+  },
+  "EG": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "EG_daily.parquet"
+  },
+  "EVRG": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "EVRG_daily.parquet"
+  },
+  "ES": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "ES_daily.parquet"
+  },
+  "EXC": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "EXC_daily.parquet"
+  },
+  "EXE": {
+    "start": "2021-02-10",
+    "end": "2025-04-24",
+    "rows": 1056,
+    "file": "EXE_daily.parquet"
+  },
+  "EXPE": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "EXPE_daily.parquet"
+  },
+  "EXPD": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "EXPD_daily.parquet"
+  },
+  "EXR": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "EXR_daily.parquet"
+  },
+  "XOM": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "XOM_daily.parquet"
+  },
+  "FFIV": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "FFIV_daily.parquet"
+  },
+  "FDS": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "FDS_daily.parquet"
+  },
+  "FICO": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "FICO_daily.parquet"
+  },
+  "FAST": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "FAST_daily.parquet"
+  },
+  "FRT": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "FRT_daily.parquet"
+  },
+  "FDX": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "FDX_daily.parquet"
+  },
+  "FIS": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "FIS_daily.parquet"
+  },
+  "FITB": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "FITB_daily.parquet"
+  },
+  "FSLR": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "FSLR_daily.parquet"
+  },
+  "FE": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "FE_daily.parquet"
+  },
+  "FISV": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "FISV_daily.parquet"
+  },
+  "F": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "F_daily.parquet"
+  },
+  "FTNT": {
+    "start": "2009-11-18",
+    "end": "2025-04-24",
+    "rows": 3881,
+    "file": "FTNT_daily.parquet"
+  },
+  "FTV": {
+    "start": "2016-07-05",
+    "end": "2025-04-24",
+    "rows": 2215,
+    "file": "FTV_daily.parquet"
+  },
+  "FOX": {
+    "start": "2019-03-13",
+    "end": "2025-04-24",
+    "rows": 1539,
+    "file": "FOX_daily.parquet"
+  },
+  "BEN": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "BEN_daily.parquet"
+  },
+  "FCX": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "FCX_daily.parquet"
+  },
+  "GRMN": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "GRMN_daily.parquet"
+  },
+  "IT": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "IT_daily.parquet"
+  },
+  "GEHC": {
+    "start": "2022-12-15",
+    "end": "2025-04-24",
+    "rows": 590,
+    "file": "GEHC_daily.parquet"
+  },
+  "GEV": {
+    "start": "2024-03-27",
+    "end": "2025-04-24",
+    "rows": 270,
+    "file": "GEV_daily.parquet"
+  },
+  "GEN": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "GEN_daily.parquet"
+  },
+  "GNRC": {
+    "start": "2010-02-11",
+    "end": "2025-04-24",
+    "rows": 3824,
+    "file": "GNRC_daily.parquet"
+  },
+  "GD": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "GD_daily.parquet"
+  },
+  "GE": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "GE_daily.parquet"
+  },
+  "GIS": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "GIS_daily.parquet"
+  },
+  "GM": {
+    "start": "2010-11-18",
+    "end": "2025-04-24",
+    "rows": 3629,
+    "file": "GM_daily.parquet"
+  },
+  "GPC": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "GPC_daily.parquet"
+  },
+  "GILD": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "GILD_daily.parquet"
+  },
+  "GPN": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "GPN_daily.parquet"
+  },
+  "GL": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "GL_daily.parquet"
+  },
+  "GDDY": {
+    "start": "2015-03-31",
+    "end": "2025-04-24",
+    "rows": 2533,
+    "file": "GDDY_daily.parquet"
+  },
+  "GS": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "GS_daily.parquet"
+  },
+  "HAL": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "HAL_daily.parquet"
+  },
+  "HIG": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "HIG_daily.parquet"
+  },
+  "HAS": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "HAS_daily.parquet"
+  },
+  "HCA": {
+    "start": "2011-03-10",
+    "end": "2025-04-24",
+    "rows": 3553,
+    "file": "HCA_daily.parquet"
+  },
+  "JKHY": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "JKHY_daily.parquet"
+  },
+  "HSY": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "HSY_daily.parquet"
+  },
+  "HPQ": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "HPQ_daily.parquet"
+  },
+  "HLT": {
+    "start": "2013-12-12",
+    "end": "2025-04-24",
+    "rows": 2858,
+    "file": "HLT_daily.parquet"
+  },
+  "HOLX": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "HOLX_daily.parquet"
+  },
+  "HD": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "HD_daily.parquet"
+  },
+  "HRL": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "HRL_daily.parquet"
+  },
+  "HWM": {
+    "start": "2016-11-01",
+    "end": "2025-04-24",
+    "rows": 2131,
+    "file": "HWM_daily.parquet"
+  },
+  "HII": {
+    "start": "2011-03-22",
+    "end": "2025-04-24",
+    "rows": 3545,
+    "file": "HII_daily.parquet"
+  },
+  "IDXX": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "IDXX_daily.parquet"
+  },
+  "ITW": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "ITW_daily.parquet"
+  },
+  "INCY": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "INCY_daily.parquet"
+  },
+  "IR": {
+    "start": "2017-05-12",
+    "end": "2025-04-24",
+    "rows": 1999,
+    "file": "IR_daily.parquet"
+  },
+  "PODD": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "PODD_daily.parquet"
+  },
+  "INTC": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "INTC_daily.parquet"
+  },
+  "IBM": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "IBM_daily.parquet"
+  },
+  "IP": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "IP_daily.parquet"
+  },
+  "IPG": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "IPG_daily.parquet"
+  },
+  "INTU": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "INTU_daily.parquet"
+  },
+  "ISRG": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "ISRG_daily.parquet"
+  },
+  "IVZ": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "IVZ_daily.parquet"
+  },
+  "IRM": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "IRM_daily.parquet"
+  },
+  "JNJ": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "JNJ_daily.parquet"
+  },
+  "JPM": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "JPM_daily.parquet"
+  },
+  "K": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "K_daily.parquet"
+  },
+  "KEY": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "KEY_daily.parquet"
+  },
+  "KEYS": {
+    "start": "2014-10-20",
+    "end": "2025-04-24",
+    "rows": 2644,
+    "file": "KEYS_daily.parquet"
+  },
+  "KMB": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "KMB_daily.parquet"
+  },
+  "KIM": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "KIM_daily.parquet"
+  },
+  "KMI": {
+    "start": "2011-02-11",
+    "end": "2025-04-24",
+    "rows": 3571,
+    "file": "KMI_daily.parquet"
+  },
+  "KLAC": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "KLAC_daily.parquet"
+  },
+  "KHC": {
+    "start": "2015-07-06",
+    "end": "2025-04-24",
+    "rows": 2467,
+    "file": "KHC_daily.parquet"
+  },
+  "KR": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "KR_daily.parquet"
+  },
+  "LHX": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "LHX_daily.parquet"
+  },
+  "LRCX": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "LRCX_daily.parquet"
+  },
+  "LVS": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "LVS_daily.parquet"
+  },
+  "LEN": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "LEN_daily.parquet"
+  },
+  "LIN": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "LIN_daily.parquet"
+  },
+  "LMT": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "LMT_daily.parquet"
+  },
+  "LYB": {
+    "start": "2010-04-28",
+    "end": "2025-04-24",
+    "rows": 3772,
+    "file": "LYB_daily.parquet"
+  },
+  "MTB": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "MTB_daily.parquet"
+  },
+  "MMC": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "MMC_daily.parquet"
+  },
+  "MAS": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "MAS_daily.parquet"
+  },
+  "MTCH": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "MTCH_daily.parquet"
+  },
+  "MCD": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "MCD_daily.parquet"
+  },
+  "MDT": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "MDT_daily.parquet"
+  },
+  "META": {
+    "start": "2012-05-18",
+    "end": "2025-04-24",
+    "rows": 3252,
+    "file": "META_daily.parquet"
+  },
+  "MET": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "MET_daily.parquet"
+  },
+  "MGM": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "MGM_daily.parquet"
+  },
+  "MCHP": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "MCHP_daily.parquet"
+  },
+  "MU": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "MU_daily.parquet"
+  },
+  "MSFT": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "MSFT_daily.parquet"
+  },
+  "MRNA": {
+    "start": "2018-12-07",
+    "end": "2025-04-24",
+    "rows": 1603,
+    "file": "MRNA_daily.parquet"
+  },
+  "MOH": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "MOH_daily.parquet"
+  },
+  "MNST": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "MNST_daily.parquet"
+  },
+  "MCO": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "MCO_daily.parquet"
+  },
+  "MS": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "MS_daily.parquet"
+  },
+  "MOS": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "MOS_daily.parquet"
+  },
+  "MSI": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "MSI_daily.parquet"
+  },
+  "MSCI": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "MSCI_daily.parquet"
+  },
+  "NDAQ": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "NDAQ_daily.parquet"
+  },
+  "NFLX": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "NFLX_daily.parquet"
+  },
+  "NEM": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "NEM_daily.parquet"
+  },
+  "NEE": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "NEE_daily.parquet"
+  },
+  "NSC": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "NSC_daily.parquet"
+  },
+  "NTRS": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "NTRS_daily.parquet"
+  },
+  "NOC": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "NOC_daily.parquet"
+  },
+  "NVDA": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "NVDA_daily.parquet"
+  },
+  "OXY": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "OXY_daily.parquet"
+  },
+  "ODFL": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "ODFL_daily.parquet"
+  },
+  "ON": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "ON_daily.parquet"
+  },
+  "OKE": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "OKE_daily.parquet"
+  },
+  "ORCL": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "ORCL_daily.parquet"
+  },
+  "OTIS": {
+    "start": "2020-03-19",
+    "end": "2025-04-24",
+    "rows": 1282,
+    "file": "OTIS_daily.parquet"
+  },
+  "PKG": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "PKG_daily.parquet"
+  },
+  "PH": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "PH_daily.parquet"
+  },
+  "PAYX": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "PAYX_daily.parquet"
+  },
+  "PYPL": {
+    "start": "2015-07-06",
+    "end": "2025-04-24",
+    "rows": 2467,
+    "file": "PYPL_daily.parquet"
+  },
+  "PNR": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "PNR_daily.parquet"
+  },
+  "PEP": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "PEP_daily.parquet"
+  },
+  "PFE": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "PFE_daily.parquet"
+  },
+  "PCG": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "PCG_daily.parquet"
+  },
+  "PSX": {
+    "start": "2012-04-12",
+    "end": "2025-04-24",
+    "rows": 3278,
+    "file": "PSX_daily.parquet"
+  },
+  "POOL": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "POOL_daily.parquet"
+  },
+  "PPG": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "PPG_daily.parquet"
+  },
+  "PPL": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "PPL_daily.parquet"
+  },
+  "PG": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "PG_daily.parquet"
+  },
+  "PGR": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "PGR_daily.parquet"
+  },
+  "PLD": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "PLD_daily.parquet"
+  },
+  "PSA": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "PSA_daily.parquet"
+  },
+  "PHM": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "PHM_daily.parquet"
+  },
+  "QCOM": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "QCOM_daily.parquet"
+  },
+  "O": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "O_daily.parquet"
+  },
+  "REG": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "REG_daily.parquet"
+  },
+  "RF": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "RF_daily.parquet"
+  },
+  "RMD": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "RMD_daily.parquet"
+  },
+  "RVTY": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "RVTY_daily.parquet"
+  },
+  "ROK": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "ROK_daily.parquet"
+  },
+  "ROP": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "ROP_daily.parquet"
+  },
+  "RCL": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "RCL_daily.parquet"
+  },
+  "RTX": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "RTX_daily.parquet"
+  },
+  "CRM": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "CRM_daily.parquet"
+  },
+  "SBAC": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "SBAC_daily.parquet"
+  },
+  "STX": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "STX_daily.parquet"
+  },
+  "SRE": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "SRE_daily.parquet"
+  },
+  "SHW": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "SHW_daily.parquet"
+  },
+  "SPG": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "SPG_daily.parquet"
+  },
+  "SWKS": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "SWKS_daily.parquet"
+  },
+  "SO": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "SO_daily.parquet"
+  },
+  "LUV": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "LUV_daily.parquet"
+  },
+  "SBUX": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "SBUX_daily.parquet"
+  },
+  "STT": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "STT_daily.parquet"
+  },
+  "STE": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "STE_daily.parquet"
+  },
+  "SYF": {
+    "start": "2014-07-31",
+    "end": "2025-04-24",
+    "rows": 2700,
+    "file": "SYF_daily.parquet"
+  },
+  "SNPS": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "SNPS_daily.parquet"
+  },
+  "SYY": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "SYY_daily.parquet"
+  },
+  "TMUS": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "TMUS_daily.parquet"
+  },
+  "TPR": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "TPR_daily.parquet"
+  },
+  "TGT": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "TGT_daily.parquet"
+  },
+  "TSLA": {
+    "start": "2010-06-29",
+    "end": "2025-04-24",
+    "rows": 3729,
+    "file": "TSLA_daily.parquet"
+  },
+  "TXN": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "TXN_daily.parquet"
+  },
+  "TXT": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "TXT_daily.parquet"
+  },
+  "TMO": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "TMO_daily.parquet"
+  },
+  "TT": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "TT_daily.parquet"
+  },
+  "TRMB": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "TRMB_daily.parquet"
+  },
+  "TFC": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "TFC_daily.parquet"
+  },
+  "TYL": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "TYL_daily.parquet"
+  },
+  "UBER": {
+    "start": "2019-05-10",
+    "end": "2025-04-24",
+    "rows": 1498,
+    "file": "UBER_daily.parquet"
+  },
+  "UDR": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "UDR_daily.parquet"
+  },
+  "ULTA": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "ULTA_daily.parquet"
+  },
+  "UNP": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "UNP_daily.parquet"
+  },
+  "URI": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "URI_daily.parquet"
+  },
+  "UNH": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "UNH_daily.parquet"
+  },
+  "USB": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "USB_daily.parquet"
+  },
+  "VLO": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "VLO_daily.parquet"
+  },
+  "VTR": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "VTR_daily.parquet"
+  },
+  "VRSK": {
+    "start": "2009-10-07",
+    "end": "2025-04-24",
+    "rows": 3911,
+    "file": "VRSK_daily.parquet"
+  },
+  "VTRS": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "VTRS_daily.parquet"
+  },
+  "V": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "V_daily.parquet"
+  },
+  "VMC": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "VMC_daily.parquet"
+  },
+  "WMT": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "WMT_daily.parquet"
+  },
+  "WM": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "WM_daily.parquet"
+  },
+  "WAT": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "WAT_daily.parquet"
+  },
+  "WFC": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "WFC_daily.parquet"
+  },
+  "WELL": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "WELL_daily.parquet"
+  },
+  "WST": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "WST_daily.parquet"
+  },
+  "WDC": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "WDC_daily.parquet"
+  },
+  "WY": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "WY_daily.parquet"
+  },
+  "WYNN": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "WYNN_daily.parquet"
+  },
+  "XEL": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "XEL_daily.parquet"
+  },
+  "XYL": {
+    "start": "2011-10-13",
+    "end": "2025-04-24",
+    "rows": 3402,
+    "file": "XYL_daily.parquet"
+  },
+  "YUM": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "YUM_daily.parquet"
+  },
+  "ZBRA": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "ZBRA_daily.parquet"
+  },
+  "ZTS": {
+    "start": "2013-02-01",
+    "end": "2025-04-24",
+    "rows": 3076,
+    "file": "ZTS_daily.parquet"
+  },
+  "SPY": {
+    "start": "2009-08-07",
+    "end": "2025-04-24",
+    "rows": 3953,
+    "file": "SPY_daily.parquet"
+  }
+}

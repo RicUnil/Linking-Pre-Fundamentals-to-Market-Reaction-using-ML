@@ -1,0 +1,30 @@
+Step 08: Build Fundamental Features
+======================================================================
+
+Status: COMPLETED
+
+Input: /files/Pre-Fundamentals-Project/results/step_07/earnings_with_targets.parquet
+Output: /files/Pre-Fundamentals-Project/results/step_08/earnings_with_targets_and_fundamentals.parquet
+
+Events processed: 20,281
+Features added: 15
+Features with data: 15/15
+
+Example feature (f_revenue_growth_qoq): 12,188 non-null values
+
+Feature columns:
+  - f_eps_surprise_value: 11,103 non-null
+  - f_eps_surprise_pct: 11,074 non-null
+  - f_revenue_growth_qoq: 12,188 non-null
+  - f_revenue_growth_yoy: 11,538 non-null
+  - f_operating_margin: 12,406 non-null
+  - f_net_margin: 12,406 non-null
+  - f_net_income_change_qoq: 13,977 non-null
+  - f_net_income_change_yoy: 13,240 non-null
+  - f_cashflow_proxy_ffo_capex: 18,041 non-null
+  - f_leverage: 15,154 non-null
+  - f_equity_ratio: 15,154 non-null
+  - f_cash_to_assets_ratio: 13,987 non-null
+  - f_roa: 14,258 non-null
+  - f_roe: 14,258 non-null
+  - f_asset_turnover: 12,406 non-null

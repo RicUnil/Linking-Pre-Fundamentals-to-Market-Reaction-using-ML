@@ -212,3 +212,6 @@ data/cache/
 # Heavy generated artifacts
 results/**/*.parquet
 data/cache/
+
+# Trained models (large artifacts)
+results/**/**/*.joblib

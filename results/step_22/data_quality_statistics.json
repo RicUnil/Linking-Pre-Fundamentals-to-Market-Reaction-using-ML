@@ -1,0 +1,463 @@
+{
+  "missing_data": {
+    "total_cells": 405300,
+    "missing_cells": 94008,
+    "missing_pct": 23.194670614359733,
+    "complete_cases": 9586,
+    "complete_pct": 49.66839378238342,
+    "missing_per_feature": [
+      {
+        "feature": "f_eps_surprise_pct",
+        "missing_count": 8287,
+        "missing_pct": 42.93782383419689
+      },
+      {
+        "feature": "f_eps_surprise_value",
+        "missing_count": 8258,
+        "missing_pct": 42.787564766839374
+      },
+      {
+        "feature": "f_revenue_growth_yoy",
+        "missing_count": 7961,
+        "missing_pct": 41.248704663212436
+      },
+      {
+        "feature": "f_revenue_growth_qoq",
+        "missing_count": 7357,
+        "missing_pct": 38.119170984455955
+      },
+      {
+        "feature": "f_asset_turnover",
+        "missing_count": 7160,
+        "missing_pct": 37.098445595854926
+      },
+      {
+        "feature": "f_net_margin",
+        "missing_count": 7160,
+        "missing_pct": 37.098445595854926
+      },
+      {
+        "feature": "f_operating_margin",
+        "missing_count": 7160,
+        "missing_pct": 37.098445595854926
+      },
+      {
+        "feature": "f_net_income_change_yoy",
+        "missing_count": 6473,
+        "missing_pct": 33.538860103626945
+      },
+      {
+        "feature": "f_net_income_change_qoq",
+        "missing_count": 5799,
+        "missing_pct": 30.046632124352328
+      },
+      {
+        "feature": "f_cash_to_assets_ratio",
+        "missing_count": 5783,
+        "missing_pct": 29.96373056994819
+      },
+      {
+        "feature": "f_roe",
+        "missing_count": 5546,
+        "missing_pct": 28.735751295336787
+      },
+      {
+        "feature": "f_roa",
+        "missing_count": 5546,
+        "missing_pct": 28.735751295336787
+      },
+      {
+        "feature": "f_leverage",
+        "missing_count": 4654,
+        "missing_pct": 24.1139896373057
+      },
+      {
+        "feature": "f_equity_ratio",
+        "missing_count": 4654,
+        "missing_pct": 24.1139896373057
+      },
+      {
+        "feature": "f_cashflow_proxy_ffo_capex",
+        "missing_count": 2108,
+        "missing_pct": 10.922279792746114
+      },
+      {
+        "feature": "pre_avg_volume_30d",
+        "missing_count": 17,
+        "missing_pct": 0.08808290155440415
+      },
+      {
+        "feature": "pre_volatility_30d",
+        "missing_count": 17,
+        "missing_pct": 0.08808290155440415
+      },
+      {
+        "feature": "spy_pre_return_30d",
+        "missing_count": 17,
+        "missing_pct": 0.08808290155440415
+      },
+      {
+        "feature": "stock_momentum_1m",
+        "missing_count": 17,
+        "missing_pct": 0.08808290155440415
+      },
+      {
+        "feature": "stock_momentum_3m",
+        "missing_count": 17,
+        "missing_pct": 0.08808290155440415
+      },
+      {
+        "feature": "stock_momentum_6m",
+        "missing_count": 17,
+        "missing_pct": 0.08808290155440415
+      }
+    ],
+    "missing_patterns": {
+      "0": 9586,
+      "1": 566,
+      "2": 1549,
+      "3": 148,
+      "4": 202,
+      "5": 55,
+      "6": 17,
+      "7": 1190,
+      "8": 335,
+      "9": 95,
+      "10": 9,
+      "11": 798,
+      "12": 93,
+      "13": 1,
+      "14": 3015,
+      "15": 1634,
+      "17": 3,
+      "20": 2,
+      "21": 2
+    }
+  },
+  "outliers": {
+    "z_score_outliers": [
+      {
+        "feature": "f_cash_to_assets_ratio",
+        "outlier_count": 467,
+        "outlier_pct": 2.4196891191709846
+      },
+      {
+        "feature": "f_asset_turnover",
+        "outlier_count": 450,
+        "outlier_pct": 2.33160621761658
+      },
+      {
+        "feature": "f_net_income_change_yoy",
+        "outlier_count": 389,
+        "outlier_pct": 2.0155440414507773
+      },
+      {
+        "feature": "f_roa",
+        "outlier_count": 355,
+        "outlier_pct": 1.839378238341969
+      },
+      {
+        "feature": "pre_volatility_30d",
+        "outlier_count": 328,
+        "outlier_pct": 1.6994818652849741
+      },
+      {
+        "feature": "f_cashflow_proxy_ffo_capex",
+        "outlier_count": 285,
+        "outlier_pct": 1.4766839378238341
+      },
+      {
+        "feature": "stock_momentum_3m",
+        "outlier_count": 246,
+        "outlier_pct": 1.2746113989637307
+      },
+      {
+        "feature": "stock_momentum_6m",
+        "outlier_count": 244,
+        "outlier_pct": 1.2642487046632125
+      },
+      {
+        "feature": "f_revenue_growth_qoq",
+        "outlier_count": 232,
+        "outlier_pct": 1.2020725388601037
+      },
+      {
+        "feature": "stock_momentum_1m",
+        "outlier_count": 226,
+        "outlier_pct": 1.1709844559585494
+      },
+      {
+        "feature": "f_net_income_change_qoq",
+        "outlier_count": 222,
+        "outlier_pct": 1.150259067357513
+      },
+      {
+        "feature": "f_operating_margin",
+        "outlier_count": 187,
+        "outlier_pct": 0.9689119170984455
+      },
+      {
+        "feature": "f_eps_surprise_value",
+        "outlier_count": 185,
+        "outlier_pct": 0.9585492227979275
+      },
+      {
+        "feature": "f_net_margin",
+        "outlier_count": 185,
+        "outlier_pct": 0.9585492227979275
+      },
+      {
+        "feature": "spy_pre_return_30d",
+        "outlier_count": 181,
+        "outlier_pct": 0.9378238341968912
+      },
+      {
+        "feature": "pre_avg_volume_30d",
+        "outlier_count": 173,
+        "outlier_pct": 0.8963730569948187
+      },
+      {
+        "feature": "f_revenue_growth_yoy",
+        "outlier_count": 135,
+        "outlier_pct": 0.6994818652849741
+      },
+      {
+        "feature": "f_leverage",
+        "outlier_count": 125,
+        "outlier_pct": 0.6476683937823834
+      },
+      {
+        "feature": "f_equity_ratio",
+        "outlier_count": 123,
+        "outlier_pct": 0.6373056994818653
+      },
+      {
+        "feature": "f_roe",
+        "outlier_count": 45,
+        "outlier_pct": 0.233160621761658
+      },
+      {
+        "feature": "f_eps_surprise_pct",
+        "outlier_count": 1,
+        "outlier_pct": 0.0051813471502590676
+      }
+    ],
+    "iqr_outliers": [
+      {
+        "feature": "f_net_income_change_qoq",
+        "outlier_count": 3329,
+        "outlier_pct": 17.248704663212436
+      },
+      {
+        "feature": "f_revenue_growth_qoq",
+        "outlier_count": 2951,
+        "outlier_pct": 15.290155440414507
+      },
+      {
+        "feature": "f_net_income_change_yoy",
+        "outlier_count": 2723,
+        "outlier_pct": 14.108808290155443
+      },
+      {
+        "feature": "f_cashflow_proxy_ffo_capex",
+        "outlier_count": 2254,
+        "outlier_pct": 11.678756476683938
+      },
+      {
+        "feature": "pre_avg_volume_30d",
+        "outlier_count": 2060,
+        "outlier_pct": 10.67357512953368
+      },
+      {
+        "feature": "f_roe",
+        "outlier_count": 1874,
+        "outlier_pct": 9.709844559585493
+      },
+      {
+        "feature": "f_eps_surprise_pct",
+        "outlier_count": 1650,
+        "outlier_pct": 8.549222797927461
+      },
+      {
+        "feature": "spy_pre_return_30d",
+        "outlier_count": 1104,
+        "outlier_pct": 5.72020725388601
+      },
+      {
+        "feature": "f_revenue_growth_yoy",
+        "outlier_count": 989,
+        "outlier_pct": 5.124352331606217
+      },
+      {
+        "feature": "pre_volatility_30d",
+        "outlier_count": 942,
+        "outlier_pct": 4.880829015544041
+      },
+      {
+        "feature": "f_asset_turnover",
+        "outlier_count": 941,
+        "outlier_pct": 4.875647668393782
+      },
+      {
+        "feature": "f_eps_surprise_value",
+        "outlier_count": 823,
+        "outlier_pct": 4.2642487046632125
+      },
+      {
+        "feature": "stock_momentum_1m",
+        "outlier_count": 803,
+        "outlier_pct": 4.160621761658031
+      },
+      {
+        "feature": "stock_momentum_3m",
+        "outlier_count": 718,
+        "outlier_pct": 3.7202072538860107
+      },
+      {
+        "feature": "stock_momentum_6m",
+        "outlier_count": 713,
+        "outlier_pct": 3.6943005181347153
+      },
+      {
+        "feature": "f_cash_to_assets_ratio",
+        "outlier_count": 705,
+        "outlier_pct": 3.6528497409326426
+      },
+      {
+        "feature": "f_roa",
+        "outlier_count": 643,
+        "outlier_pct": 3.3316062176165806
+      },
+      {
+        "feature": "f_net_margin",
+        "outlier_count": 561,
+        "outlier_pct": 2.906735751295337
+      },
+      {
+        "feature": "f_operating_margin",
+        "outlier_count": 408,
+        "outlier_pct": 2.1139896373056994
+      },
+      {
+        "feature": "f_equity_ratio",
+        "outlier_count": 220,
+        "outlier_pct": 1.1398963730569949
+      },
+      {
+        "feature": "f_leverage",
+        "outlier_count": 209,
+        "outlier_pct": 1.0829015544041452
+      }
+    ],
+    "extreme_features": [
+      {
+        "feature": "f_cashflow_proxy_ffo_capex",
+        "min": -16759000.0,
+        "max": 123767000.0,
+        "range": 140526000.0
+      },
+      {
+        "feature": "f_eps_surprise_pct",
+        "min": -8858.504,
+        "max": 3297926.0,
+        "range": 3306784.504
+      },
+      {
+        "feature": "f_net_income_change_qoq",
+        "min": -36086000.0,
+        "max": 37269000.0,
+        "range": 73355000.0
+      },
+      {
+        "feature": "f_net_income_change_yoy",
+        "min": -36086000.0,
+        "max": 37269000.0,
+        "range": 73355000.0
+      },
+      {
+        "feature": "pre_avg_volume_30d",
+        "min": 0.0,
+        "max": 1124373142.857143,
+        "range": 1124373142.857143
+      }
+    ]
+  },
+  "data_leakage": {
+    "leakage_issues": [
+      {
+        "check": "future_information",
+        "features": [
+          "post_window_start",
+          "post_window_end",
+          "has_full_post_window"
+        ],
+        "severity": "WARNING"
+      },
+      {
+        "check": "quarter_alignment",
+        "mismatches": 17652,
+        "severity": "WARNING"
+      }
+    ],
+    "critical_count": 0,
+    "warning_count": 2
+  },
+  "distributions": {
+    "constant_features": [],
+    "skewed_features": [
+      {
+        "feature": "f_cashflow_proxy_ffo_capex",
+        "skewness": 7.118577235390703
+      },
+      {
+        "feature": "f_eps_surprise_pct",
+        "skewness": 104.93281999459741
+      },
+      {
+        "feature": "f_eps_surprise_value",
+        "skewness": 11.392988628983806
+      },
+      {
+        "feature": "f_equity_ratio",
+        "skewness": -4.278721836930379
+      },
+      {
+        "feature": "f_leverage",
+        "skewness": 4.328383391053653
+      },
+      {
+        "feature": "f_net_income_change_qoq",
+        "skewness": 4.590611346621452
+      },
+      {
+        "feature": "f_net_margin",
+        "skewness": -10.502737178475215
+      },
+      {
+        "feature": "f_operating_margin",
+        "skewness": -6.052685325029728
+      },
+      {
+        "feature": "f_revenue_growth_qoq",
+        "skewness": 17.17277860125765
+      },
+      {
+        "feature": "f_revenue_growth_yoy",
+        "skewness": 19.414632480745595
+      },
+      {
+        "feature": "f_roe",
+        "skewness": 45.40898730694452
+      },
+      {
+        "feature": "pre_avg_volume_30d",
+        "skewness": 14.784838669978091
+      },
+      {
+        "feature": "pre_volatility_30d",
+        "skewness": 3.2964974804406593
+      }
+    ],
+    "infinite_features": []
+  }
+}

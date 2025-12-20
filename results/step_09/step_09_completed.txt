@@ -1,0 +1,4 @@
+Step 09 completed.
+Rows: 20281
+Columns: 52
+Market features: 6

@@ -1,0 +1,16 @@
+Step 19 completed: classification models trained and evaluated.
+Output directory: /files/Pre-Fundamentals-Project/results/step_19
+
+Models trained:
+  - dummy_most_frequent
+  - logistic_regression
+  - random_forest_classifier
+  - gradient_boosting_classifier
+
+Test Set ROC-AUC Scores:
+  random_forest_classifier: 0.5135
+  gradient_boosting_classifier: 0.5113
+  dummy_most_frequent: 0.5000
+  logistic_regression: 0.4991
+
+Best model: random_forest_classifier (AUC = 0.5135)

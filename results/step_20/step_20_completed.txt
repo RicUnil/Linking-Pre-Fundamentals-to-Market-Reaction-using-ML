@@ -1,0 +1,14 @@
+Step 20 completed: classification figures generated.
+Figures directory: /files/Pre-Fundamentals-Project/results/step_20/figures_classification
+Best validation model (by ROC-AUC): logistic_regression
+Best validation AUC: 0.5491
+
+Figures created:
+  - roc_curves_val.png
+  - roc_curves_test.png
+  - auc_by_model_val.png
+  - auc_by_model_test.png
+  - confusion_matrix_logistic_regression_val.png
+  - confusion_matrix_logistic_regression_test.png
+  - confusion_matrix_logistic_regression_val_normalized.png
+  - confusion_matrix_logistic_regression_test_normalized.png

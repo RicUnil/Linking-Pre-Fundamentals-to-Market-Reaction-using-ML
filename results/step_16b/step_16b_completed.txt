@@ -1,0 +1,14 @@
+Step 16b completed: rolling-window OOS evaluation across time folds.
+Number of folds: 11
+
+Aggregated Test Metrics (mean across folds):
+--------------------------------------------------
+baseline_capm        MAE: 0.051311  R²: -0.087485
+baseline_mean        MAE: 0.049547  R²: -0.014266
+random_forest        MAE: 0.049851  R²: -0.026712
+ridge                MAE: 0.050687  R²: -6.053638
+xgb_best             MAE: 0.049715  R²: -0.020283
+--------------------------------------------------
+
+Best model (avg): baseline_mean
+Best avg test MAE: 0.049547

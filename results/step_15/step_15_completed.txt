@@ -1,0 +1,14 @@
+Step 15 completed: test-set evaluation for selected models.
+Rows in test set: 7040
+
+Test Metrics Summary:
+--------------------------------------------------
+random_forest        MAE: 0.055298  R²: 0.003610
+baseline_mean        MAE: 0.055437  R²: -0.000349
+ridge                MAE: 0.055705  R²: -0.010513
+xgb_best             MAE: 0.055762  R²: -0.018264
+baseline_capm        MAE: 0.057645  R²: -0.078570
+--------------------------------------------------
+
+Best model: random_forest
+Best test MAE: 0.055298

@@ -1,5 +1,5 @@
 Step 06 - Map Earnings Events to Daily Data Windows
-Completed at: 2025-12-20 16:36:46
+Completed at: 2025-12-21 14:03:42
 
 Input Data:
 - Earnings events: 20,281 rows

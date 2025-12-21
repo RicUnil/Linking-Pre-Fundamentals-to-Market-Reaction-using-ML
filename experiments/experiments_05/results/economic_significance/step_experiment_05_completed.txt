@@ -1,0 +1,10 @@
+Experiment 05: Economic Significance Assessment - COMPLETED
+
+Models evaluated: baseline_mean, ridge, random_forest
+Test set size: 7,040 observations
+
+Max long-short spread: 1.118%
+Max Sharpe ratio: 0.0775
+
+Conclusion: Economic significance is WEAK TO NEGLIGIBLE.
+This reinforces the main finding: R² ≈ 0 → No exploitable patterns.

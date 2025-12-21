@@ -1,0 +1,6 @@
+Experiment 04: Window Robustness Testing - COMPLETED
+
+Variant A: 123 evaluations
+Variant B: 18 evaluations
+
+Conclusion: Results are ROBUST to alternative window designs.

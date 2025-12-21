@@ -1,0 +1,4 @@
+Experiment 02: 5-day excess returns completed successfully.
+Train samples: 9766
+Val samples: 2452
+Test samples: 7040

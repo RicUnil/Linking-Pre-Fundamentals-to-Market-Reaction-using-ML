@@ -1,0 +1,32 @@
+[
+  {
+    "model": "baseline_mean",
+    "mean_long_return": 0.01346976433070025,
+    "mean_short_return": 0.006115826462774935,
+    "long_short_spread": 0.0073539378679253154,
+    "std_long_short": 0.13347564877392112,
+    "sharpe_ratio_simple": 0.05509572671477548,
+    "n_long": 704,
+    "n_short": 704
+  },
+  {
+    "model": "ridge",
+    "mean_long_return": 0.009730740879843228,
+    "mean_short_return": 0.006466192086449207,
+    "long_short_spread": 0.0032645487933940205,
+    "std_long_short": 0.13403903794791414,
+    "sharpe_ratio_simple": 0.024355209074706896,
+    "n_long": 704,
+    "n_short": 704
+  },
+  {
+    "model": "random_forest",
+    "mean_long_return": 0.015244910225305169,
+    "mean_short_return": 0.0040674211033167994,
+    "long_short_spread": 0.01117748912198837,
+    "std_long_short": 0.14425979678476314,
+    "sharpe_ratio_simple": 0.07748166413034173,
+    "n_long": 704,
+    "n_short": 704
+  }
+]

@@ -1,0 +1,4 @@
+Experiment 03: Day 0 announcement reaction completed successfully.
+Train samples: 9767
+Val samples: 2446
+Test samples: 7030

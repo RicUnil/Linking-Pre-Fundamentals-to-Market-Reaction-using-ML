@@ -10,8 +10,12 @@ dependencies:
   - matplotlib
   - seaborn
   - pytest
+  - pyarrow
+  - scipy
+  - statsmodels
   - pip
   - pip:
       - yfinance
       - joblib
       - pyyaml
+      - shap
